@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <string>
 #include <cctype>
-#include <duckx/duckx.hpp>
+#include <duckx.hpp>
 using namespace std;
 int main()
 {

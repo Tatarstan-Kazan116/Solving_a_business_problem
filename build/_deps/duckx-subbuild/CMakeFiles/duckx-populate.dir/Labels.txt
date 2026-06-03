@@ -1,0 +1,14 @@
+# Target labels
+ duckx-populate
+# Source files and their labels
+C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild/CMakeFiles/duckx-populate
+C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild/CMakeFiles/64ffa137e16959f750ccc226dba7d316/duckx-populate.rule
+C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild/CMakeFiles/c7cfa50bc5d4a0113c4a6c65c0d540d3/duckx-populate-complete.rule
+C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild/CMakeFiles/fe5a8c13f0b99c3fdaf1ed5b7fbfeb5b/duckx-populate-build.rule
+C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild/CMakeFiles/fe5a8c13f0b99c3fdaf1ed5b7fbfeb5b/duckx-populate-configure.rule
+C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild/CMakeFiles/fe5a8c13f0b99c3fdaf1ed5b7fbfeb5b/duckx-populate-download.rule
+C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild/CMakeFiles/fe5a8c13f0b99c3fdaf1ed5b7fbfeb5b/duckx-populate-install.rule
+C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild/CMakeFiles/fe5a8c13f0b99c3fdaf1ed5b7fbfeb5b/duckx-populate-mkdir.rule
+C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild/CMakeFiles/fe5a8c13f0b99c3fdaf1ed5b7fbfeb5b/duckx-populate-patch.rule
+C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild/CMakeFiles/fe5a8c13f0b99c3fdaf1ed5b7fbfeb5b/duckx-populate-test.rule
+C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild/CMakeFiles/fe5a8c13f0b99c3fdaf1ed5b7fbfeb5b/duckx-populate-update.rule

@@ -48,9 +48,6 @@ CMAKE_SKIP_RPATH:BOOL=NO
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
-//Git command line client
-GIT_EXECUTABLE:FILEPATH=GIT_EXECUTABLE-NOTFOUND
-
 //Value Computed by CMake
 duckx-populate_BINARY_DIR:STATIC=C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild
 
@@ -104,6 +101,4 @@ CMAKE_SKIP_INSTALL_RPATH-ADVANCED:INTERNAL=1
 CMAKE_SKIP_RPATH-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
-//ADVANCED property for variable: GIT_EXECUTABLE
-GIT_EXECUTABLE-ADVANCED:INTERNAL=1
 

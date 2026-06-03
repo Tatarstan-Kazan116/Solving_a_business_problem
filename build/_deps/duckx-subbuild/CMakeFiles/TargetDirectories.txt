@@ -1,0 +1,3 @@
+C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild/CMakeFiles/duckx-populate.dir
+C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/Зульфия/source/repos/Goznak/Solving_a_business_problem/build/_deps/duckx-subbuild/CMakeFiles/ZERO_CHECK.dir

@@ -18,10 +18,10 @@ project(duckx-populate NONE)
 
 # Pass through things we've already detected in the main project to avoid
 # paying the cost of redetecting them again in ExternalProject_Add()
-set(GIT_EXECUTABLE [==[GIT_EXECUTABLE-NOTFOUND]==])
-set(GIT_VERSION_STRING [==[]==])
+set(GIT_EXECUTABLE [==[C:/Program Files/Git/cmd/git.exe]==])
+set(GIT_VERSION_STRING [==[2.54.0.windows.1]==])
 set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
-  [==[GIT_EXECUTABLE-NOTFOUND;]==]
+  [==[C:/Program Files/Git/cmd/git.exe;2.54.0.windows.1]==]
 )
 
 

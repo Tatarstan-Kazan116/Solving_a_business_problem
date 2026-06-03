@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Зульфия\source\repos\Goznak\Solving_a_business_problem\build\_deps\duckx-subbuild\CMakeFiles\64ffa137e16959f750ccc226dba7d316\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{90689E83-59D4-38C5-9141-207C6BBBB938}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
